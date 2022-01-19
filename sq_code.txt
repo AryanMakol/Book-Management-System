@@ -1,0 +1,8 @@
+My sql code 
+To find average and maximum sales of Tables.
+select items,max(purchase) from newspaper;
+select avg(purchase) from newspaper;
+select types,max(sales) from books;
+select avg(sales) from books;
+select items,max(purchase)from magazine;
+select avg(purchase) from magazine;
